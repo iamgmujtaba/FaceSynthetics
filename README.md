@@ -54,10 +54,11 @@ Please check [test.py](test.py) for detail.
 ## Result Visualization(3D 68 Keypoints)
 <div align="left">
   <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_indoor_001.png?raw=true" width="320"/>
+  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_indoor_009.png?raw=true" width="320"/>
 </div>
 
 <div align="left">
-  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_indoor_009.png?raw=true" width="320"/>
+  
 </div>
 
 <div align="left">
