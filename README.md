@@ -1,5 +1,6 @@
 ## Introduction
 This repository provides the 3D 68 Keypoints from the synthetic dataset from Microsoft [Fake It Till You Make It: Face analysis in the wild using synthetic data alone](https://arxiv.org/abs/2109.15102).
+Note: This code is tested on Windows machine.
 
 ## Installation
 ```
