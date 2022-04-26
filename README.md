@@ -58,14 +58,7 @@ Please check [test.py](test.py) for detail.
 </div>
 
 <div align="left">
-  
-</div>
-
-<div align="left">
   <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_outdoor_008.png?raw=true" width="320"/>
-</div>
-
-<div align="left">
   <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_outdoor_010.png?raw=true" width="320"/>
 </div>
 
