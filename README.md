@@ -53,13 +53,13 @@ Please check [test.py](test.py) for detail.
 
 ## Result Visualization(3D 68 Keypoints)
 <div align="left">
-  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_indoor_001.png?raw=true" width="320"/>
-  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_indoor_009.png?raw=true" width="320"/>
+  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_indoor_001.png?raw=true" width="320" height="320"/>
+  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_indoor_009.png?raw=true" width="320" height="320"/>
 </div>
 
 <div align="left">
-  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_outdoor_008.png?raw=true" width="320"/>
-  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_outdoor_010.png?raw=true" width="320"/>
+  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_outdoor_008.png?raw=true" width="320" height="320"/>
+  <img src="https://github.com/iamgmujtaba/FaceSynthetics/blob/main/doc/a_outdoor_010.png?raw=true" width="320" height="320"/>
 </div>
 
 ## Acknowledgment
