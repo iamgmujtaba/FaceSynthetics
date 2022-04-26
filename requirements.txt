@@ -1,0 +1,7 @@
+Cython
+onnxruntime
+pytorch_lightning
+timm
+albumentations
+insightface
+opencv-python
